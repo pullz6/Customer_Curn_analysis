@@ -45,3 +45,5 @@ prediction_test = model.predict(X_test)
 print('Accuracy', metrics.accuracy_score(y_test,prediction_test))
 
 
+#Checkingß
+
